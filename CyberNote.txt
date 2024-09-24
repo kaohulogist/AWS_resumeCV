@@ -1,0 +1,15 @@
+OverTheWire: Offers a variety of war games that help you learn and practice security concepts in a fun way.
+CTFtime: A calendar of upcoming Capture The Flag (CTF) competitions, along with rankings and resources.
+VulnHub: Provides vulnerable machines that you can download and practice penetration testing on.
+Hack This Site: A free, safe, and legal training ground for hackers to test and expand their skills.
+Root Me: Offers a wide range of challenges and labs to practice hacking skills.
+CyberSecLabs: Provides hands-on labs and challenges to help you learn penetration testing and other cybersecurity skills.
+PortSwigger Web Security Academy: Offers free interactive labs to learn about web security vulnerabilities and how to exploit them.
+SANS Cyber Aces: Free courses and resources to help you learn the basics of cybersecurity.
+Cybrary: Offers a wide range of free and paid courses on various cybersecurity topics.
+Immersive Labs: Provides hands-on labs and simulations to help you build and test your cybersecurity skills.
+Hack The Box (HTB): Offers a wide range of challenges and labs, including Capture The Flag (CTF) competitions and specific packs like the Bug Bounty Hunting Essentials1.
+TryHackMe: Provides interactive learning paths and rooms that cover various cybersecurity topics, from beginner to advanced levels2.
+PentesterLab: Focuses on web application security and offers exercises that simulate real-world vulnerabilities2.
+Bugcrowd University: Offers free courses and resources to help you get started with bug bounty hunting and improve your skills3.
+HackerOne: Provides a platform for bug bounty programs and also offers training resources and CTF challenges3.
