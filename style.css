@@ -88,12 +88,14 @@ h4 {
 table{
 border-collapse: collapse;
 width: 100%;
+border: 2px solid black;
 }
 
 th, td {
-padding: 8px;
+border: 1px solid black;
+padding-left: 9px;
 text-align: left;
-border-bottom: 1px solid #DDD;
+border-bottom: 5px solid #DDD;
 }
 
 tr:hover {background-color: #D6EEEE;}
